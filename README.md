@@ -3,6 +3,8 @@ Name: DHISHA M  Company: CODTECH IT SOLUTIONS ID: CT08DS7234 Domain: Backend Web
 Overview of the project
 
 Project:SIMPLE RESTFUL API image
+![image](https://github.com/user-attachments/assets/b0d7692b-504f-41c1-a7b3-c7b02fb9f971)
+
 
 OBJECTIVE: The objective of this project is to create a simple RESTful API for managing user data. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on user records. This project provides hands-on experience in building and managing APIs using Express.js, and it demonstrates the principles of RESTful architecture.
 
